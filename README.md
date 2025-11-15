@@ -1,16 +1,60 @@
-## Hi there 👋
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=4CF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nelson+CS+👋;Python+Enthusiast;Learning+Web+Development;Welcome+to+My+GitHub!" alt="Typing SVG" />
+</p>
 
-<!--
-**nelsoncs-2008/nelsoncs-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🌟 About Me
+Hi! I'm **Nelson CS**, currently learning programming and exploring different areas in tech.  
+I enjoy building small projects, experimenting with code, and improving at my own pace.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🔧 Skills & Technologies
+
+### 🐍 **Working With**
+- Python  
+- SQL  
+- File Handling (Python)
+
+### 🌱 **Learning**
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+# 🎯 Learning Goals
+- Improve Python  
+- Build more projects  
+- Explore web development  
+- Learn HTML, CSS, and JavaScript  
+- Create clean and simple UI designs  
+
+---
+
+# 🎮 Hobbies & Interests
+- Gaming 🎮  
+- Music 🎧  
+- Coding projects 💻  
+- UI design exploration 🎨  
+- Logic puzzles 🧩  
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.instagram.com/nelson.cs_2008/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nelson-cs/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🚀 Thanks for Visiting!
+Feel free to explore my repositories and follow along as I continue learning and creating.
