@@ -1,60 +1,65 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=4CF7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Nelson+CS+👋;Python+Enthusiast;Learning+Web+Development;Welcome+to+My+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4CF7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Nelson+CS+👋;Learning+Python+and+Web+Development" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🌟 About Me
-Hi! I'm **Nelson CS**, currently learning programming and exploring different areas in tech.  
-I enjoy building small projects, experimenting with code, and improving at my own pace.
+## 🌟 About Me
+I'm **Nelson CS**, a beginner programmer learning Python and starting my journey into web development.  
+I also enjoy graphic design and love improving my creative skills.
 
 ---
 
-# 🔧 Skills & Technologies
+## 🔧 Skills & Technologies
 
-### 🐍 **Working With**
+**Working With**
 - Python  
-- SQL  
-- File Handling (Python)
+- MySQL  
+- CSV file handling  
+- Basic terminal applications  
 
-### 🌱 **Learning**
+**Learning**
 - HTML  
 - CSS  
 - JavaScript  
 
----
-
-# 🎯 Learning Goals
-- Improve Python  
-- Build more projects  
-- Explore web development  
-- Learn HTML, CSS, and JavaScript  
-- Create clean and simple UI designs  
+**Creative Tools**
+- Canva (experienced)  
+- Photoshop (learning)  
+- Affinity (learning)
 
 ---
 
-# 🎮 Hobbies & Interests
-- Gaming 🎮  
-- Music 🎧  
-- Coding projects 💻  
-- UI design exploration 🎨  
-- Logic puzzles 🧩  
+## 📘 Project
+
+### ✈️ Airport Management System  
+A simple Python program that includes:
+- Login system  
+- Admin & user sections  
+- Flight booking features  
+- MySQL + CSV storage  
 
 ---
 
-# 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.instagram.com/nelson.cs_2008/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nelson-cs/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+## 🏏 Interests
+- Cricket  
+- Chess  
+- Coding  
+- Graphic design  
+- Learning creative software  
 
 ---
 
-# 🚀 Thanks for Visiting!
-Feel free to explore my repositories and follow along as I continue learning and creating.
+## 🤝 Connect With Me
+<a href="https://www.instagram.com/nelson.cs_2008/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/nelson-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+## 🚀 Thanks for Visiting!
+More projects coming soon as I continue learning.
