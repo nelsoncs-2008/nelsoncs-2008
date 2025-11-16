@@ -45,7 +45,7 @@ A simple Python program that includes:
 ## ❤️ Interests
 - 🏏Cricket  
 - ♟️Chess  
-- 🧑🏻‍💻Coding  
+- 💻Coding  
 - 🎧Music 
 
 ---
