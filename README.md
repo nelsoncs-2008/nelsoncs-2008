@@ -31,7 +31,7 @@ I also enjoy graphic design and love improving my creative skills.
 
 ---
 
-## 📘 Project
+## 📘 Project(s)
 
 ### ✈️ Airport Management System  
 A simple Python program that includes:
@@ -42,12 +42,11 @@ A simple Python program that includes:
 
 ---
 
-## 🏏 Interests
-- Cricket  
-- Chess  
-- Coding  
-- Graphic design  
-- Learning creative software  
+## ❤️ Interests
+- 🏏Cricket  
+- ♟️Chess  
+- 🧑🏻‍💻Coding  
+- 🎧Music 
 
 ---
 
